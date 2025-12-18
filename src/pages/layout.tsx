@@ -55,7 +55,7 @@ export default function RootLayout() {
           <div className="flex flex-col items-center gap-6">
             <div className="flex gap-4">
               <Button variant="ghost" size="icon" asChild>
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+                <a href="https://github.com/kuchinonaka" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
                   <Github className="h-5 w-5" />
                 </a>
               </Button>
@@ -65,18 +65,18 @@ export default function RootLayout() {
                 </a>
               </Button>
               <Button variant="ghost" size="icon" asChild>
-                <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
+                <a href="https://x.com/nipnipin" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
                   <Twitter className="h-5 w-5" />
                 </a>
               </Button>
               <Button variant="ghost" size="icon" asChild>
-                <a href="mailto:your.email@example.com" aria-label="Email">
+                <a href="mailto:christyancha@gmail.com" aria-label="Email">
                   <Mail className="h-5 w-5" />
                 </a>
               </Button>
             </div>
             <div className="text-center text-sm text-muted-foreground">
-              <p>© 2025 Mark Enfermo. Built with React & Tailwind.</p>
+              <p>© 2025 YANCHA. Built with React & Tailwind.</p>
             </div>
           </div>
         </div>
